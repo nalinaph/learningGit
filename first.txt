@@ -2,3 +2,6 @@ kfjsldjfksdl jdsdjfldk jldsjfldsjfl
 
 This is my update
 This is my second update
+
+line in staging
+line in working directory
